@@ -1,0 +1,5 @@
+2022/11/10-15:38:40.549 3764 Reusing MANIFEST C:/Users/c.martin/Desktop/oskour/Projet_Chlo-Proto/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/10-15:51:30.907 22ec Level-0 table #5: started
+2022/11/10-15:51:30.931 22ec Level-0 table #5: 8237 bytes OK
+2022/11/10-15:51:30.937 22ec Delete type=0 #3
+2022/11/10-15:51:30.938 22ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)
